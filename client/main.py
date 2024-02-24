@@ -1,10 +1,10 @@
 # FastAPI imports
 from fastapi import FastAPI, Request
 from fastapi.responses import StreamingResponse
-
+from starlette.responses import HTMLResponse
 # Model imports
 from model import Customer, CustomerCreate, SessionLocal, ResponseCustomer
-
+from contextlib import asynccontextmanager
 # redis import
 import redis
 
@@ -18,6 +18,7 @@ import json
 import logging
 import socket
 from datetime import datetime
+from scrutiny.prompts import find_vulnerabilities, find_anomaly, getContainerLogs
 
 # Configure the logger
 logger = logging.getLogger()
@@ -74,6 +75,10 @@ def getIP():
     # Close the socket
     sock.close()
     return source_ip, dest_ip
+
+@asynccontextmanager
+async def startup():
+    yield
 
 # Handle Incoming requests from Stripe
 @app.post("/stripe/webhook")
@@ -261,5 +266,23 @@ async def getLogs():
             yield ','.join(str(item[key]) for key in data[0].keys()) + '\n'
     return StreamingResponse(generate_csv(), media_type="text/csv")
 
+@app.get("/findVulnerabilities")
+async def getVulnerabilities():
+    data = find_vulnerabilities('logfile.log')
+    html_response = f"<pre>{data}</pre>"
+    return HTMLResponse(content=html_response)
+
+@app.get("/findAnomalies")
+async def getAnomalies():
+    data = find_anomaly('logfile.log')
+    html_response = f"<pre>{data}</pre>"
+    return HTMLResponse(content=html_response)
+
+@app.get("/getContainerlogs")
+async def getContainerdata(containerId: str):
+    data = getContainerLogs(containerId)
+    html_response = f"<pre>{data}</pre>"
+    return HTMLResponse(content=html_response)
+
 if __name__ == "__main__":
-    uvicorn.run("main:app",host='localhost', port=8000, reload=True)
+    uvicorn.run("main:app",host='localhost', port=8001, reload=True)

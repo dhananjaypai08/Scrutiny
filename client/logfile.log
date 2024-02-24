@@ -67,3 +67,542 @@ Using selector: SelectSelector
 {'logmessage': 'DEBUG', 'logdescription': 'The data has been fetched from cache', 'severity': 2, 'timestamp': '2024-02-24 17:54:45', 'source_ips': '192.168.73.97', 'destination_ips': '93.184.216.34'}
 {'logmessage': 'DEBUG', 'logdescription': 'The data has been fetched from cache', 'severity': 2, 'timestamp': '2024-02-24 17:54:46', 'source_ips': '192.168.73.97', 'destination_ips': '93.184.216.34'}
 {'logmessage': 'DEBUG', 'logdescription': 'The data has been fetched from cache', 'severity': 2, 'timestamp': '2024-02-24 17:54:46', 'source_ips': '192.168.73.97', 'destination_ips': '93.184.216.34'}
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 404 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 404 None
+Looking for auth config
+Looking for auth config
+Using credentials store "desktop"
+Using credentials store "desktop"
+Looking for auth entry for 'https://index.docker.io/v1/'
+Looking for auth entry for 'https://index.docker.io/v1/'
+Found auth config
+Found auth config
+http://localhost:None "POST /v1.41/images/create?tag=latest&fromImage=gracious_kapitsa%2Fdiversifynow HTTP/1.1" 404 None
+http://localhost:None "POST /v1.41/images/create?tag=latest&fromImage=gracious_kapitsa%2Fdiversifynow HTTP/1.1" 404 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 404 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 404 None
+Looking for auth config
+Looking for auth config
+Using credentials store "desktop"
+Using credentials store "desktop"
+Looking for auth entry for 'https://index.docker.io/v1/'
+Looking for auth entry for 'https://index.docker.io/v1/'
+Found auth config
+Found auth config
+http://localhost:None "POST /v1.41/images/create?tag=latest&fromImage=gracious_kapitsa HTTP/1.1" 404 None
+http://localhost:None "POST /v1.41/images/create?tag=latest&fromImage=gracious_kapitsa HTTP/1.1" 404 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 404 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 404 None
+Looking for auth config
+Looking for auth config
+Using credentials store "desktop"
+Using credentials store "desktop"
+Looking for auth entry for 'https://index.docker.io/v1/'
+Looking for auth entry for 'https://index.docker.io/v1/'
+Found auth config
+Found auth config
+http://localhost:None "POST /v1.41/images/create?tag=latest&fromImage=230ffe703a28 HTTP/1.1" 404 None
+http://localhost:None "POST /v1.41/images/create?tag=latest&fromImage=230ffe703a28 HTTP/1.1" 404 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 201 None
+http://localhost:None "POST /v1.41/containers/create HTTP/1.1" 201 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "POST /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/start HTTP/1.1" 204 0
+http://localhost:None "POST /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/start HTTP/1.1" 204 0
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/diversifynow:latest/json HTTP/1.1" 404 None
+http://localhost:None "GET /v1.41/containers/diversifynow:latest/json HTTP/1.1" 404 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a28/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a28/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a28/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a28/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/json?limit=-1&all=0&size=0&trunc_cmd=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/json?only_ids=0&all=0 HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d5316e62d0fcfdf8ad180209a05ec1c76a328d37b3fe968885fa10b2ca3afef8/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:94a56cb215996f59be81872b5a888c9d946c6a93380147aa6e4278e98f24b6e2/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:128f3979beefad9939b66981f8211e093639f768a3b28271f7294ce4d16e44bd/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:d844303c8830f6cef890d82ee160bae9f81e79c641dd5b84a651a017106c5616/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5e2b554c1c45d22c9d1aa836828828e320a26011b76c08631ac896cbc3625e3e/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:60ce9ff3880c8ae262800ba607684169dcb9e035b0f77d19db1d5de9d499e066/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:67a4b1138d2d65c110e3ef7ba49c9e75d8d87f1150266297d90da979cfcc62e3/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:7eb85f44c22962f72d3e4188f22f41b8fbec732d3e1b3b85ddc55225bb8e5dee/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:65d98cab1c76502f2f60d739b8bd8ab69dbfeb42f3d91af0cb3eda97d17cb828/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:5069d65bcc55c8c961b7ceb35113bda2c2a6a419a452c96510f322153fda8dc7/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/images/sha256:3a7ea656f1afe8f5577abfb67c5c664f85ca2b2a4ac532223064e85a718d8ffe/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/230ffe703a283aa10def1fad5a663f6a3b64367f64299debd05e39da65c96515/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Trying paths: ['C:\\Users\\dhana\\.docker\\config.json', 'C:\\Users\\dhana\\.dockercfg']
+Found file at path: C:\Users\dhana\.docker\config.json
+Found file at path: C:\Users\dhana\.docker\config.json
+Found 'auths' section
+Found 'auths' section
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Auth data for https://index.docker.io/v1/ is absent. Client might be using a credentials store instead.
+Found 'credsStore' section
+Found 'credsStore' section
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /version HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/logs?stderr=1&stdout=1&timestamps=0&follow=0&tail=all HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+http://localhost:None "GET /v1.41/containers/33e20c54f78f9be1f1cf6b5d2de694d705c9864582cae875c993c5f7376cd95b/json HTTP/1.1" 200 None
+Using selector: SelectSelector
+Using selector: SelectSelector
+Using selector: SelectSelector
