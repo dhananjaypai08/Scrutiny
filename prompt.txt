@@ -1,0 +1,2 @@
+Scrutiny -> client -> logfile.log 
+Scrutiny -> listener -> detects changes in the above logfile.log
