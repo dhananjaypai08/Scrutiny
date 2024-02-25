@@ -1,1 +1,1 @@
-from scrutiny.prompts import find_vulnerabilities, find_anomaly, getContainerLogs
+from scrutiny.prompts import find_vulnerabilities, find_anomaly, getContainerLogs, getCodeVulnerabilities
